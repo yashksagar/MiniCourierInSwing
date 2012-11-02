@@ -1,7 +1,6 @@
-
 Name: Yash Kshirsagar
 
-Email: yash.ksagar@gatech.edu
+Email: yash.ksagar@gmail.com
 
 Java Version:  1.6.0
 
